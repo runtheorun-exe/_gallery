@@ -10,5 +10,7 @@ categories:
   - Σύνθεση
 tags:
   - goto
+  - E. W. Dijkstra
+  - Dijkstra
 ---
 
